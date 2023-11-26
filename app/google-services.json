@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "92763677263",
-    "project_id": "letsvoterwithconfidence",
-    "storage_bucket": "letsvoterwithconfidence.appspot.com"
+    "project_number": "777935330371",
+    "project_id": "evoting-70471",
+    "storage_bucket": "evoting-70471.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:92763677263:android:fb06c2cd12e094931a403a",
+        "mobilesdk_app_id": "1:777935330371:android:9008970a8ace521dbf08f6",
         "android_client_info": {
           "package_name": "com.example.letsvoterwithconfidence"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "92763677263-p3q59cj2stfe16n84079i19oh532ql2o.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAdE6OjL6CjnQkIG_-ZfI-Tfkvo9wpJJq4"
+          "current_key": "AIzaSyDT9e7wuJYptdheXqsARF5rmhO6AHU2TFo"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "92763677263-p3q59cj2stfe16n84079i19oh532ql2o.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
